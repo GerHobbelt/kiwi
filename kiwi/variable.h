@@ -109,7 +109,7 @@ private:
 
 	SharedDataPtr<VariableData> m_data;
 
-	friend bool operator<(const Variable& lhs, const Variable& rhs)
+	friend bool operator<( const Variable& lhs, const Variable& rhs )
 	{
 		return lhs.m_data < rhs.m_data;
 	}
