@@ -1,6 +1,10 @@
 Kiwi Release Notes
 ==================
 
+Wrappers 0.2.0.dev | Solver 0.1.1 | 01/03/2017
+----------------------------------------------
+- Add support for Python 3 (>=3.4)
+
 Wrappers 0.1.3 | Solver 0.1.1 | 07/12/2013
 ------------------------------------------
 - Update the build script to remove the need for build.py
